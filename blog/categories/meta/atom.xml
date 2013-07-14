@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ben Jenkinson's Blog]]></title>
-  <link href="http://BenJenkinson.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Meta | Ben Jenkinson's Blog]]></title>
+  <link href="http://BenJenkinson.github.io/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://BenJenkinson.github.io/"/>
   <updated>2013-07-14T21:46:46+01:00</updated>
   <id>http://BenJenkinson.github.io/</id>
