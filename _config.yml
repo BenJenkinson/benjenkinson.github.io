@@ -82,11 +82,11 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: BenJenkinson
 pinboard_count: 3
 
 # Delicious
-delicious_user: BenJenkinson
+delicious_user: 
 delicious_count: 3
 
 # Disqus Comments
