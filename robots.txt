@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://BenJenkinson.github.io/sitemap.xml 
